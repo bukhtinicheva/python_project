@@ -36,3 +36,6 @@
 **Bash:** \
 1)Выдать права на исполнение файла с помощью команды ``` chmod +x script.sh  ``` \
 2)Запустить скрипт с помощью команды ``` ./ script.sh ```
+
+## Приложения к проектной работе
+<a href="https://ibb.co/R4Pnsb4"><img src="https://i.ibb.co/rfMPz0f/image.jpg" alt="image" border="0"></a>
