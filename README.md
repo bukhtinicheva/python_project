@@ -48,6 +48,11 @@
 1)Для того, чтобы искать слово в названиях файлов: ```./script.sh -w file -f test1 -m titles``` \
 2)Для того, что искать слово в содержании файлов: ```./script.sh -w file -f test1```
 
+## Подводя итоги
+1)
+2)
+3)
+
 
 ## Приложения к проектной работе
 <a href="https://ibb.co/R4Pnsb4"><img src="https://i.ibb.co/rfMPz0f/image.jpg" alt="image" border="0"></a>
