@@ -46,4 +46,3 @@ main(args.word, args.folder, args.mode)
 # python3 script.py -w [word] -f [folder] -m titles
 # Search in files:
 # python3 script.py -w [word] -f [folder]
-# python3 script.py -w [word] -f [folder] -m [anything but titles]
