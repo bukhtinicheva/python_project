@@ -37,5 +37,17 @@
 1)Выдать права на исполнение файла с помощью команды ``` chmod +x script.sh  ``` \
 2)Запустить скрипт с помощью команды ``` ./ script.sh ```
 
+## Выбор режима 
+Предположим, мы хотим найти слово *file* в папке *test1*, путь к которой */home/sirius/pythonproject/test1*. 
+
+Для bash: \
+1)Для того, чтобы искать слово в названиях файлов: ```./script.sh -w file -f /home/sirius/pythonproject/test1 -m titles``` \
+2)Для того, что искать слово в содержании файлов: ```./script.sh -w file -f /home/sirius/pythonproject/test1```
+
+Для python: \
+1)Для того, чтобы искать слово в названиях файлов: ```./script.sh -w file -f test1 -m titles``` \
+2)Для того, что искать слово в содержании файлов: ```./script.sh -w file -f test1```
+
+
 ## Приложения к проектной работе
 <a href="https://ibb.co/R4Pnsb4"><img src="https://i.ibb.co/rfMPz0f/image.jpg" alt="image" border="0"></a>
